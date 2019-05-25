@@ -6,8 +6,8 @@
 <body>
 <header class="header"><b> credit management</b></header>
 <nav  class="navigation">  
-<a href="http://localhost/internship/phase1/home.html"> Home </a> 
-<a href="http://localhost/internship/phase1/users.php">  Users </a>
+<a href="index.html"> Home </a> 
+<a href="users.php">  Users </a>
 <a href="">  About </a>
 <a href="">  Contact </a>
 </nav>
